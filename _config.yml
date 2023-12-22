@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: Dick Wolff
 language: en
-timezone: '	Europe/Amsterdam'
+timezone: 'Europe/Amsterdam'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
