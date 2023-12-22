@@ -111,13 +111,13 @@ navbar:
         Home: /
         Archives: /archives
         Categories: /categories
-        Tags: /tags
+        #Tags: /tags
         About: /about
     # Links to be shown on the right of the navigation bar
-    links:
-        Download on GitHub:
-            icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+    #links:
+    #    Download on GitHub:
+    #        icon: fab fa-github
+    #        url: https://github.com/ppoffice/hexo-theme-icarus
 # Page footer configurations
 footer:
     # Copyright text
@@ -167,10 +167,10 @@ search:
     index_pages: true
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: disqus
-    # Disqus shortname
-    shortname: ''
+#comment:
+#    type: disqus
+#    # Disqus shortname
+#    shortname: ''
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
