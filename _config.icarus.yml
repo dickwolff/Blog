@@ -248,21 +248,15 @@ widgets:
         #follow_link: https://github.com/ppoffice
         # Links to be shown on the bottom of the profile widget
         social_links:
-            GitHub:
-                icon: fab fa-github
-                url: https://github.com/dickwolff
-            #Facebook:
-            #    icon: fab fa-facebook
-            #    url: https://facebook.com
+            LinkedIn:
+                icon: fa-brands fa-linkedin
+                url: https://linkedin.com/dickwolff
             Twitter:
-                icon: fab fa-twitter
+                icon: fa-brands fa-twitter
                 url: https://twitter.com/dickw0lff
-            # Dribbble:
-            #     icon: fab fa-dribbble
-            #     url: https://dribbble.com
-            # RSS:
-            #     icon: fas fa-rss
-            #     url: /
+            GitHub:
+                icon: fa-brands fa-github
+                url: https://github.com/dickwolff
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
