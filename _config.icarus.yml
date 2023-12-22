@@ -238,16 +238,16 @@ widgets:
         # Author's current location
         #location: Your location
         # URL or path to the avatar image
-        avatar: 
+        avatar: '/images/dick.jpg'
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: 
+        #gravatar: 
         # URL or path for the follow button
         #follow_link: https://github.com/ppoffice
         # Links to be shown on the bottom of the profile widget
         social_links:
-            Github:
+            GitHub:
                 icon: fab fa-github
                 url: https://github.com/ppoffice
             #Facebook:
