@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog
+title: Blog by Dick Wolff
 subtitle: ''
-description: ''
+description: 'Things that interest me, that could interest you..'
 keywords:
 author: Dick Wolff
 language: en
@@ -65,7 +65,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: Uncategorized
 category_map:
 tag_map:
 
