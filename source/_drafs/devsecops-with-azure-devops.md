@@ -1,9 +1,9 @@
 ---
-title: SecDevOps with Azure DevOps
+title: DevSecOps with Azure DevOps
 tags: 
  - devops 
  - azure devops
- - secdevops
+ - devsecops
 categories:
  - Azure Devops
 ---
