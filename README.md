@@ -1,2 +1,2 @@
 # Blog
-My blog, hosted on GithUb 
+My personal blog, built with Hexo and hosted on GitHub.
