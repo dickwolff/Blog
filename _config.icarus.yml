@@ -257,6 +257,9 @@ widgets:
             GitHub:
                 icon: fa-brands fa-github
                 url: https://github.com/dickwolff
+            Coinection:
+                icon: fa-solid fa-euro-sign
+                url: https://coinection.eu
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
